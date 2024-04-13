@@ -1,2 +1,6 @@
 branch example
+<<<<<<< HEAD
 branch 1 content
+=======
+branch 2 content
+>>>>>>> branch2
